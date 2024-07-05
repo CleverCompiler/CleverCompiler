@@ -7,7 +7,7 @@
 
 - 👋 Hi! I'm Dan Christ.
 - 🏗️ I'm currently working as a Software Engineer at [Aya Healthcare](https://ayahealthcare.com)
-- ✏️ Find me at [https://CleverCompiler.com](https://CleverCompiler.com)
+<!--- ✏️ Find me at [https://CleverCompiler.com](https://CleverCompiler.com)-->
 - 🐦 I'm on Twitter [https://twitter.com/CleverCompiler](https://twitter.com/CleverCompiler)
 - ⛓️ ... and LinkedIn [https://www.linkedin.com/in/CleverCompiler/](https://www.linkedin.com/in/CleverCompiler/)
 
